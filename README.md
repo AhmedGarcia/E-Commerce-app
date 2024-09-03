@@ -176,8 +176,13 @@ Once the server is running, you can use a tool like `Insomnia` to interact with 
 
 ## Walkthrough Video
 
-A walkthrough video demonstrating the functionality of the application, including the creation of the schema, seeding the database, and testing the routes in Insomnia, can be found [here](#).
+A walkthrough video demonstrating the creation of the schema, and seeding the database,can be found [here](https://drive.google.com/file/d/15fzHXLfViHXFkT46-Ylp0sHjW9SEChbv/view?usp=sharing
+). The walktrough video testing the routes in Insomnia can be found [here](https://drive.google.com/file/d/1m5lU_k8lx3wD57p84QLk8MBsvQ6mniQA/view?usp=drive_link). And if you would like to collaborate you may access the repo [here](https://github.com/AhmedGarcia/E-Commerce-app).
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+repo link: https://github.com/AhmedGarcia/E-Commerce-app
